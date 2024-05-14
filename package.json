@@ -1,15 +1,16 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
+  "name": "abquine-photography",
+  "version": "0.1.0-alpha",
   "private": true,
   "scripts": {
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "server": "hexo server"
+    "dev": "find . -not -name 'db.json' -not -path '.node_modules/*' | entr -rs 'npm run serve'",
+    "serve": "hexo server --port 4001"
   },
   "hexo": {
-    "version": ""
+    "version": "7.2.0"
   },
   "dependencies": {
     "hexo": "^7.0.0",
@@ -17,7 +18,7 @@
     "hexo-generator-category": "^2.0.0",
     "hexo-generator-index": "^3.0.0",
     "hexo-generator-tag": "^2.0.0",
-    "hexo-renderer-ejs": "^2.0.0",
+    "hexo-renderer-jade": "^0.5.0",
     "hexo-renderer-marked": "^6.0.0",
     "hexo-renderer-stylus": "^3.0.0",
     "hexo-server": "^3.0.0",
