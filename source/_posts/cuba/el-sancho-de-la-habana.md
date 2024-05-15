@@ -1,0 +1,12 @@
+---
+title: El Sancho de la Habana
+date: 2017-08-01
+---
+
+![El Sancho de la Habana — photograph by A.B. Quine](20170801-el-sancho-de-la-habana-tweaked.jpg)
+
+<style>
+  img {
+    max-height: 98vh;
+  }
+</style>
