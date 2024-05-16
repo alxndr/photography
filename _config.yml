@@ -5,7 +5,7 @@
 # Site
 title: A.B. Quine Photography
 # subtitle: ''
-description: 'nature and landscape photography by A.B. Quine'
+description: 'nature and landscape photography'
 keywords: landscape photos, nature photos, film photography, digital photography, alexander quine
 author: A.B. Quine
 language: en
@@ -31,7 +31,8 @@ code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
 custom_file_path:
-  style: source/_css/main.css
+  sidebar: source/_data/sidebar.njk
+  style: source/_css/custom.css
 
 # Writing
 new_post_name: :title.md # File name of new posts

@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2024-05-14 13:02:11
+date: 2024-05-14
 description: Tools of the trade, and what type of scenes tend to catch A.B. Quine's photographic eye.
 ---
 
@@ -27,6 +27,8 @@ Other topics of interest:
 
 > ![scaffolding in Havana, 2017](20170802-scaffolding.jpg)
 > _unusual textures can be fun_
+
+Prints of selected photographs are available.
 
 <style>
   blockquote {
