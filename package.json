@@ -8,7 +8,8 @@
     "deploy": "hexo deploy",
     "dev": "find . -not -name 'db.json' -not -path '*/node_modules/*' | entr -rs 'npm run serve'",
     "predev": "git submodule update --init --recursive",
-    "serve": "hexo server --port 4001"
+    "serve": "hexo server --port 4001",
+    "test": "playwright test"
   },
   "hexo": {
     "version": "7.2.0"
@@ -24,6 +25,7 @@
     "hexo-renderer-stylus": "^3.0.0"
   },
   "devDependencies": {
+    "@playwright/test": "^1.61.1",
     "hexo-server": "^3.0.0"
   }
 }
