@@ -3,6 +3,8 @@
 ## features
 
 * [ ] add About to navigation
+* [ ] add custom Favicon
+* [ ] tagging/categories??
 * [ ] disable the fade-in (or make it faster)
 
 
@@ -13,9 +15,15 @@
 
 ## bugs
 
-* [-] images on About page are missing
+* [x] images on About page are missing
 
 
 ## tests
 
-* [-] add a test suite
+* [x] add a test suite
+* [ ] hook it up to GitHub Actions
+
+
+## deploying
+
+* [ ] make sure it still works

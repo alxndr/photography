@@ -4,18 +4,18 @@ date: 2024-05-14
 description: Tools of the trade, and what type of scenes tend to catch A.B. Quine's photographic eye.
 ---
 
-My father taught me how to use his Pentax SLR as a child; for my 13th birthday my parents gifted me a 35mm SLR to call my own. In high school I learned my way around a monochrome darkroom, and in college I learned how to develop color.
+My father taught me how to use his Pentax SLR as a child, and for my 13th birthday my parents gifted me a 35mm SLR to call my own. In high school I learned my way around a monochrome darkroom, and in college I learned how to develop color and began playing with medium-format film and digital cameras.
 
 I tend to shoot with [Nikon](https://www.nikon.com) cameras, but I've also enjoyed using Olympus and Yashica.
 
-Lately my mainstays are a 35mm Nikon FM, a medium-format [Zenza Bronica](https://en.wikipedia.org/wiki/Bronica) S2A (with Nikkor-P f2.8 75mm), and a digital Nikon zFC (with Nikkor DX 18–140mm) — and an everpresent iPhone.
+Lately my mainstays are a medium-format [Zenza Bronica](https://en.wikipedia.org/wiki/Bronica) S2A (with Nikkor-P f2.8 75mm) and a digital Nikon zFC (with Nikkor DX 18–140mm) — and an everpresent iPhone.
 
-> ![my Zenza Bronica camera](20220331-bronica.jpg)
+> ![my Zenza Bronica camera](/about/20220331-bronica.jpg)
 > _here's the Bronica_
 
 My favorite subject is Mother Nature.
 
-> ![black slugs in northern Ireland](20220404-black-slugs.jpg)
+> ![black slugs in northern Ireland](/about/20220404-black-slugs.jpg)
 > _Irish slugs enjoying the bounty of the Green Island_
 
 Other topics of interest:  
@@ -25,7 +25,7 @@ Other topics of interest:
 * the juxtaposition nature's splendors with the fallibility of humanity…  
 * unexpected vantage points and emergent textures of man-made structures…  
 
-> ![scaffolding in Havana, 2017](20170802-scaffolding.jpg)
+> ![scaffolding in Havana, 2017](/about/20170802-scaffolding.jpg)
 > _unusual textures can be fun_
 
 Prints of selected photographs are available.
