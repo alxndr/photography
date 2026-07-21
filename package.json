@@ -7,6 +7,7 @@
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "dev": "find . -not -name 'db.json' -not -path '*/node_modules/*' | entr -rs 'npm run serve'",
+    "lint": "github-actionlint",
     "predev": "git submodule update --init --recursive",
     "serve": "hexo server --port 4001",
     "test": "playwright test"
@@ -26,6 +27,7 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.61.1",
+    "github-actionlint": "^1.7.12",
     "hexo-server": "^3.0.0"
   }
 }

@@ -21,9 +21,10 @@
 ## tests
 
 * [x] add a test suite
-    * [ ] hook it up to run on GitHub Actions before deploy
+    * [x] hook it up to run on GitHub Actions before deploy
 
 
-## deploying
+## ops
 
-* [ ] make sure it still works
+* [ ] make sure deploy still works
+* [ ] ensure consistent version of Node.js is used everywhere (v20 or v21? or upgrade to newer one??)
