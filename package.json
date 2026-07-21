@@ -7,7 +7,7 @@
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "dev": "find . -not -name 'db.json' -not -path '*/node_modules/*' | entr -rs 'npm run serve'",
-    "predev": "git submodule update",
+    "predev": "git submodule update --init --recursive",
     "serve": "hexo server --port 4001"
   },
   "hexo": {
