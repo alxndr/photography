@@ -5,12 +5,12 @@
 * [ ] add About to navigation
 * [ ] add custom Favicon
 * [ ] tagging/categories??
-* [ ] disable the fade-in (or make it faster)
 
 
 ## style
 
 * [ ] change the main font (apostrophes are uuuuugly)
+* [ ] disable the fade-in (or make it faster)
 
 
 ## bugs
@@ -21,7 +21,7 @@
 ## tests
 
 * [x] add a test suite
-* [ ] hook it up to GitHub Actions
+    * [ ] hook it up to run on GitHub Actions before deploy
 
 
 ## deploying
