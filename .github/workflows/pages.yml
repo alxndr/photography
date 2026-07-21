@@ -23,10 +23,10 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           submodules: recursive
-      - name: Use Node.js 20
+      - name: Use Node.js 24
         uses: actions/setup-node@v4
         with:
-          node-version: '21.3.0' # should match what's checked in to `.tool-versions` file
+          node-version: '24.18.0' # should match what's checked in to `.tool-versions` file
       - name: Cache NPM dependencies
         uses: actions/cache@v4
         with:
@@ -49,10 +49,10 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           submodules: recursive
-      - name: Use Node.js 20
+      - name: Use Node.js 24
         uses: actions/setup-node@v4
         with:
-          node-version: '21.3.0' # should match what's checked in to `.tool-versions` file
+          node-version: '24.18.0' # should match what's checked in to `.tool-versions` file
           # Ref: https://github.com/actions/setup-node#supported-version-syntax
       - name: Cache NPM dependencies
         uses: actions/cache@v4

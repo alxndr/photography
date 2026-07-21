@@ -1,5 +1,11 @@
 # TODOs
 
+
+## content
+
+* [ ] change nature photo on About page
+
+
 ## features
 
 * [ ] add About to navigation
@@ -9,7 +15,7 @@
 
 ## style
 
-* [ ] change the main font (apostrophes are uuuuugly)
+* [ ] change the main font (apostrophes are uuuuugly) ... let's use Palatino
 * [ ] disable the fade-in (or make it faster)
 
 
@@ -27,4 +33,4 @@
 ## ops
 
 * [ ] make sure deploy still works
-* [ ] ensure consistent version of Node.js is used everywhere (v20 or v21? or upgrade to newer one??)
+* [x] ensure consistent version of Node.js is used everywhere (v20 or v21? or upgrade to newer one??) -> moved to Node 24 (Active LTS)
