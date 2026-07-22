@@ -1,6 +1,7 @@
 ---
 title: Osorno Volcano, Chile
 date: 2016-02-09
+tags: Olympus PEN E-P2
 categories: 2016-south-america
 ---
 

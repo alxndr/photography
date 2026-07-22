@@ -2,6 +2,7 @@
 title: hot air balloon from above Kapadokya
 date: 2024-08-25
 categories: 2024-turkey
+tags: iPhone 11 Pro
 ---
 
 ![hot air balloon from above Kapadokya — photograph by A.B. Quine](2024-08-25-hot-air-balloon-from-above-Kapadokya-Turkiye.jpeg)

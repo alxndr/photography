@@ -2,6 +2,7 @@
 title: Giant's Causeway
 date: 2022-04-04
 categories: 2022-ireland
+tags: iPhone 11 Pro
 ---
 
 ![Giant's Causeway — photograph by A.B. Quine](20220404-giants-causeway-straightened.jpg)

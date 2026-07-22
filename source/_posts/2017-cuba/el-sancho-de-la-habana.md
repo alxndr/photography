@@ -2,6 +2,7 @@
 title: El Sancho de la Habana
 date: 2017-08-01
 categories: 2017-cuba
+tags: iPhone 6 Plus
 ---
 
 ![El Sancho de la Habana — photograph by A.B. Quine](20170801-el-sancho-de-la-habana-tweaked.jpg)

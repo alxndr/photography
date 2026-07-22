@@ -2,6 +2,7 @@
 title: Red Valley, Kapadokya
 date: 2024-08-25
 categories: 2024-turkey
+tags: iPhone 11 Pro
 ---
 
 ![Red Valley, Kapadokya — photograph by A.B. Quine](2024-08-25-Red-Valley-Kapadokya-Turkiye.jpeg)

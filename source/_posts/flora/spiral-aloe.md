@@ -2,6 +2,7 @@
 title: spiral aloe
 date: 2023-05-23
 categories: flora
+tags: iPhone 11 Pro
 ---
 
 ![spiral aloe — photograph by A.B. Quine](2023-05-23-spiral-aloe.jpeg)

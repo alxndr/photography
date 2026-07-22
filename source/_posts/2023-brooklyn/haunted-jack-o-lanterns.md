@@ -1,6 +1,7 @@
 ---
 title: haunted Jack-o-lanterns
 date: 2023-12-28
+tags: iPhone 11 Pro
 ---
 
 ![haunted Jack-o-lanterns — photograph by A.B. Quine](2023-12-28-dessicated-Jack-o-lanterns-Brooklyn.jpeg)

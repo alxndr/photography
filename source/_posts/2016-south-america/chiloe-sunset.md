@@ -1,6 +1,7 @@
 ---
 title: sunset, Chiloé Island
 date: 2016-02-06
+tags: Olympus PEN E-P2
 categories: 2016-south-america
 ---
 

@@ -2,6 +2,7 @@
 title: Istanbul from Galata Tower
 date: 2024-08-16
 categories: 2024-turkey
+tags: iPhone 11 Pro
 ---
 
 ![Istanbul from Galata Tower — photograph by A.B. Quine](2024-08-16-Istanbul-from-Galata-Tower-looking-west-Turkiye.jpeg)
