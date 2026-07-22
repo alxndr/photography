@@ -1,6 +1,7 @@
 ---
 title: Poulnabrone Dolmen
 date: 2022-04-07
+categories: 2022-ireland
 ---
 
 ![Poulnabrone Dolmen — photograph by A.B. Quine](20220407-poulnabrone.jpg)
