@@ -15,6 +15,7 @@ motion:
 
 menu:
   about: /about/ || fa fa-user
+  tags: /tags/ || fa fa-tags
 
 # One 500px source image for every slot - browsers downscale as needed.
 # safari_pinned_tab is intentionally left unset (falls back to the theme's
