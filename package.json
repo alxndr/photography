@@ -1,6 +1,6 @@
 {
   "name": "abquine-photography",
-  "version": "0.1.0-alpha",
+  "version": "0.1.0-beta",
   "private": true,
   "scripts": {
     "build": "hexo generate",
