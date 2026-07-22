@@ -1,0 +1,8 @@
+# Alternate Theme Config (https://theme-next.js.org/docs/getting-started/configuration)
+# Hexo merges this over themes/next/_config.yml at build time, so overrides
+# survive theme updates and never require touching the theme submodule itself.
+
+font:
+  enable: true
+  global:
+    family: Palatino

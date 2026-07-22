@@ -4,6 +4,7 @@
 ## content
 
 * [ ] change nature photo on About page
+* [ ] come up with a way to embed multiple photos into the space of a `blockquote`
 
 
 ## features
@@ -15,7 +16,7 @@
 
 ## style
 
-* [ ] change the main font (apostrophes are uuuuugly) ... let's use Palatino
+* [x] change the main font (apostrophes are uuuuugly) ... let's use Palatino
 * [ ] disable the fade-in (or make it faster)
 
 
