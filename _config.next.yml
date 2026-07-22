@@ -15,3 +15,11 @@ motion:
 
 menu:
   about: /about/ || fa fa-user
+
+# One 500px source image for every slot - browsers downscale as needed.
+# safari_pinned_tab is intentionally left unset (falls back to the theme's
+# default logo.svg) - it needs a single-color SVG mask icon, not a PNG.
+favicon:
+  small: /images/favicon-camera-500px.png
+  medium: /images/favicon-camera-500px.png
+  apple_touch_icon: /images/favicon-camera-500px.png

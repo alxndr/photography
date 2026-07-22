@@ -10,7 +10,7 @@
 ## features
 
 * [x] add About to navigation
-* [ ] add custom Favicon
+* [x] add custom Favicon
 * [ ] tagging/categories??
 
 
