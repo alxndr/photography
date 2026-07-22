@@ -1,3 +1,23 @@
 img {
   max-height: 95vh;
 }
+
+/* Hide NexT's "Cheers! N posts in total. Keep on posting." archive message.
+   Scoped to .collection-title > span so it doesn't hide the per-year
+   headers (.collection-year > span) or the category/tag name headings
+   (.collection-title > h2), which share the same .collection-header class.
+   !important is required: NexT's motion.js runs a Velocity.js entrance
+   animation on every .collection-header element, which sets `display`
+   via inline style and would otherwise override a plain display: none. */
+.collection-title > span.collection-header {
+  display: none !important;
+}
+
+/* .collection-title also has a decorative ::before dot marker, which is
+   left dangling now that its text is hidden. .collection-title is shared
+   with category/tag pages (for the actual category/tag name heading), so
+   scope this to the archive page specifically (.content.archive) to avoid
+   removing the dot from those. */
+.content.archive .collection-title::before {
+  display: none;
+}

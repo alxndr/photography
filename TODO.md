@@ -17,7 +17,7 @@
 ## style
 
 * [x] change the main font (apostrophes are uuuuugly) ... let's use Palatino
-* [ ] disable the fade-in (or make it faster)
+* [x] disable the fade-in (or make it faster)
 
 
 ## bugs
