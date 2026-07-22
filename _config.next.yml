@@ -6,3 +6,6 @@ font:
   enable: true
   global:
     family: Palatino
+
+custom_file_path:
+  style: source/_css/custom.css
