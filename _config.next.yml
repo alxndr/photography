@@ -12,3 +12,6 @@ custom_file_path:
 
 motion:
   enable: false
+
+menu:
+  about: /about/ || fa fa-user
