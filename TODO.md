@@ -11,7 +11,7 @@
 
 * [x] add About to navigation
 * [x] add custom Favicon
-* [ ] tagging/categories??
+* [ ] wishlist: namespaced tags (e.g. `camera:___` vs `subject:___`)
 
 
 ## style
@@ -35,3 +35,4 @@
 
 * [x] make sure deploy still works
 * [x] ensure consistent version of Node.js is used everywhere (v20 or v21? or upgrade to newer one??) -> moved to Node 24 (Active LTS)
+* [x] hook up to `.photos` TLD

@@ -1,13 +1,14 @@
 // Minimal static file server for testing the built `public/` output.
 // Hexo bakes the configured `root` (see _config.yml) into every absolute
 // link/asset path, so this server mounts `public/` under that same prefix
-// rather than at "/" — otherwise every link in the generated HTML would 404.
+// (currently "/", the domain root, since the site is served from
+// alxndr.photos rather than a /photography/ subpath).
 const http = require('node:http');
 const fs = require('node:fs');
 const path = require('node:path');
 
 const PORT = 4001;
-const BASE_PATH = '/photography';
+const BASE_PATH = '';
 const PUBLIC_DIR = path.join(__dirname, '..', 'public');
 
 const MIME_TYPES = {

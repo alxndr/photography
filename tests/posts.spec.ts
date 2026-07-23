@@ -4,7 +4,7 @@ import { expectNoBrokenImages, collectSameOriginLinks } from './helpers';
 test('every post reachable from the homepage loads with no broken images', async ({ page }) => {
   await page.goto('');
   const links = await collectSameOriginLinks(page);
-  const postLinks = links.filter((href) => /\/photography\/\d{4}-[^/]+\/[^/]+\/$/.test(href));
+  const postLinks = links.filter((href) => /\/\d{4}-[^/]+\/[^/]+\/$/.test(href));
 
   expect(postLinks.length, 'expected at least one post link on the homepage').toBeGreaterThan(0);
 

@@ -6,7 +6,7 @@ test('tag cloud page lists at least one tag, and each tag page lists its posts',
   expect(response?.status()).toBe(200);
 
   const links = await collectSameOriginLinks(page);
-  const tagLinks = links.filter((href) => /\/photography\/tags\/[^/]+\/$/.test(href));
+  const tagLinks = links.filter((href) => /\/tags\/[^/]+\/$/.test(href));
 
   expect(tagLinks.length, 'expected at least one tag on the tag cloud page').toBeGreaterThan(0);
 

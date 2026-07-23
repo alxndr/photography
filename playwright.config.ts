@@ -6,7 +6,7 @@ export default defineConfig({
   retries: process.env.CI ? 2 : 0,
   reporter: 'list',
   use: {
-    baseURL: 'http://localhost:4001/photography/',
+    baseURL: 'http://localhost:4001/',
     trace: 'on-first-retry',
   },
   webServer: {
@@ -15,7 +15,7 @@ export default defineConfig({
     // which races with Playwright's readiness check and can serve
     // incomplete pages to the first test that hits a given route.
     command: 'npx hexo generate && node tests/static-server.js',
-    url: 'http://localhost:4001/photography/',
+    url: 'http://localhost:4001/',
     reuseExistingServer: !process.env.CI,
     timeout: 60_000,
   },
